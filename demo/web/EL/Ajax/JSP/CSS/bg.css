@@ -1,0 +1,14 @@
+#toolTip {
+    position: absolute;
+    left: 331px;
+    top: 39px;
+    width: 98px;
+    height: 48px;
+    padding-top: 45px;
+    padding-left: 25px;
+    padding-right: 25px;
+    z-index: 1;
+    display: none;
+    color: red;
+    background-image: url("../img/风神.jpeg");
+}
